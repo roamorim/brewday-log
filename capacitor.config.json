@@ -1,0 +1,9 @@
+{
+  "appId": "com.brewlog.app",
+  "appName": "BrewLog AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
